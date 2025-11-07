@@ -70,5 +70,53 @@
 			"@C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\Dissertation\\Goap_Diss\\.vscode\\compileCommands_Default\\Goap_Diss.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\Dissertation\\Goap_Diss\\Source\\Goap_Diss\\Private\\Goap_BaseActions.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\Dissertation\\Goap_Diss\\.vscode\\compileCommands_Default\\Goap_Diss.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\Dissertation\\Goap_Diss\\Source\\Goap_Diss\\Private\\Goap_Planner.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\Dissertation\\Goap_Diss\\.vscode\\compileCommands_Default\\Goap_Diss.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\Dissertation\\Goap_Diss\\Source\\Goap_Diss\\Private\\Goap_StateAndGoal.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\Dissertation\\Goap_Diss\\.vscode\\compileCommands_Default\\Goap_Diss.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\Dissertation\\Goap_Diss\\Source\\Goap_Diss\\Public\\Goap_BaseActions.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\Dissertation\\Goap_Diss\\.vscode\\compileCommands_Default\\Goap_Diss.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\Dissertation\\Goap_Diss\\Source\\Goap_Diss\\Public\\Goap_Planner.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\Dissertation\\Goap_Diss\\.vscode\\compileCommands_Default\\Goap_Diss.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\Dissertation\\Goap_Diss\\Source\\Goap_Diss\\Public\\Goap_StateAndGoal.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\Dissertation\\Goap_Diss\\.vscode\\compileCommands_Default\\Goap_Diss.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.5\\Engine\\Source"
 	}
 ]
