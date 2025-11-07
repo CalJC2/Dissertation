@@ -1,25 +1,20 @@
 {
-    "configurations": [
-        {
-            "name": "Goap_DissEditor Editor Win64 Development (Goap_Diss)",
-            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-            "cStandard": "c17",
-            "cppStandard": "c++20",
-            "intelliSenseMode": "msvc-x64",
-            "compileCommands": [
-                "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\Goap_Diss\\.vscode\\compileCommands_Goap_Diss.json"
-            ]
-        },
-        {
-            "name": "Win32",
-            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
-            "cStandard": "c17",
-            "cppStandard": "c++20",
-            "intelliSenseMode": "msvc-x64",
-            "compileCommands": [
-                "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\Goap_Diss\\.vscode\\compileCommands_Default.json"
-            ]
-        }
-    ],
-    "version": 4
+	"configurations": [
+		{
+			"name": "Goap_DissEditor Editor Win64 Development (Goap_Diss)",
+			"compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\Dissertation\\Goap_Diss\\.vscode\\compileCommands_Goap_Diss.json"
+		},
+		{
+			"name": "Win32",
+			"compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"cStandard": "c17",
+			"cppStandard": "c++20",
+			"intelliSenseMode": "msvc-x64",
+			"compileCommands": "C:\\Users\\user\\OneDrive - UWE Bristol\\Documents\\Calum\\Year3\\CCTP\\Dissertation\\Goap_Diss\\.vscode\\compileCommands_Default.json"
+		}
+	]
 }
