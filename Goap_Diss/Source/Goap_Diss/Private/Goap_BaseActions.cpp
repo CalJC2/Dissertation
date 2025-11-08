@@ -3,3 +3,13 @@
 
 #include "Goap_BaseActions.h"
 
+
+UGoap_BaseActions::UGoap_BaseActions()
+{
+
+}
+
+UGoap_BaseActions::~UGoap_BaseActions()
+{
+
+}

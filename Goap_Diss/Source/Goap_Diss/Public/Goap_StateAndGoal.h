@@ -18,7 +18,7 @@ public:
 
 };
 
-
+// a struct contatining the functionality to hold the current world state the AI needs to know
 USTRUCT(BlueprintType)
 struct FWorldState
 {
@@ -29,13 +29,17 @@ public:
 	TMap<FName, bool> WorldState;
 };
 
+// a struct containing the goal states and the priority of the goals
 USTRUCT(BlueprintType)
 struct FGoal
 {
-	GENERATED_USTRUCT_BODY()
+	GENERATED_BODY()
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	TMap<FName, bool> DesiredState;
+
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
+	float Priority;
 };
 
 
